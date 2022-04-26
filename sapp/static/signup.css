@@ -1,0 +1,98 @@
+/*.body-background {
+    width: 100%;
+    height: 100vh;
+    background-image: linear-gradient(rgba(4, 9, 30, 0.7), rgba(4, 9, 30, 0.7)), url(login_bg.jpg);
+    background-size: cover;
+    background-position: center;
+}*/
+
+
+/*.signup-logo {
+    text-decoration: none;
+    background-color: blue;
+    padding: 20px 10px;
+    border: #bd070a solid;
+    border-radius: 20%;
+}*/
+
+.signupbox {
+    width: 360px;
+    height: 800px;
+    margin: auto;
+    background: transparent;
+    border-radius: 5px;
+    border: #bd070a solid;
+}
+
+h2 {
+    text-align: center;
+    padding-top: 10px;
+    color: aquamarine;
+}
+
+.form_tab {
+    color: aqua;
+}
+
+form {
+    width: 50px;
+    margin-left: 20px;
+}
+
+form label {
+    display: flex;
+    margin-top: 18px;
+    font-size: 18px;
+    color: aquamarine;
+}
+
+form input {
+    width: 100%;
+    padding: 7px;
+    border: none;
+    border: 1px solid red;
+    border-radius: 5px;
+    outline: none;
+}
+
+input[type="submit"] {
+    width: 300px;
+    height: 35px;
+    margin-top: 50px;
+    border: none;
+    background-color: aquamarine;
+    color: red;
+    font-size: 16px;
+}
+
+p {
+    text-align: center;
+    padding-top: 20px;
+    font-size: 15px;
+    color: aqua;
+}
+
+.para {
+    text-align: center;
+    color: aqua;
+    font-size: 15px;
+    margin-top: -10px;
+}
+
+.para a {
+    color: red;
+}
+
+.term a {
+    color: #bd070a;
+    text-decoration: none;
+    font-size: 16px;
+}
+
+.term {
+    margin-top: 3rem;
+}
+
+.container {
+    margin-top: 10%;
+}

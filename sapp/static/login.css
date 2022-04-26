@@ -1,0 +1,32 @@
+body {
+    min-height: 100vh;
+    width: 100%;
+    background-image: linear-gradient(rgba(4, 9, 30, 0.7), rgba(4, 9, 30, 0.7)), url()
+}
+
+
+/*.signinbox {
+    width: 360px;
+    height: 750px;
+    margin: auto;
+    background: transparent;
+    border-radius: 5px;
+    border: #14c3f4 solid;
+}*/
+
+
+/*.vh-100 {
+    background-image: url('login_bg.jpg');
+    background-repeat: no repeat;
+    background-size: cover;
+}*/
+
+
+/*.vh-100 {
+    min-height: 100vh;
+    width: 100%;
+    background-image: url('login_bg.jpg');
+    background-position: center;
+    background-size: cover;
+    position: relative;
+}*/
